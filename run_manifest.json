@@ -1,0 +1,18 @@
+{
+  "run_id": "run_001",
+  "engine_version": "1.0.0-antigravity",
+  "output_sha256": "93bda6501a73552bb185db22ed97ece2bb43fd36c606909a288241fd7b0fb454",
+  "dataset_hashes": {
+    "deletion_requests.csv": "4059c2bbc439e777b254488a68029e1b089a5338963d725588991f4d6f0e07a1",
+    "deletion_rules.csv": "7b659ed2277b91a25f11f84b15dc58e975d91383b0c3a093846e613ced13cb76",
+    "evidence_files.csv": "11537b2fc7184c5d08dd857d5845ba0cc2f487a7df24f8b45b9a771f1d4a7318",
+    "output.csv": "cde4f9c5729291c8859a00d5c65539c37b4f19f1b6e0c5563c398bc4226ef801",
+    "sample_deletion_requests.csv": "66fd4a859fdd66111e691156a86726e5a4478ae73112e565f64e2c53462ee72e",
+    "sample_output.csv": "b9839f24eb9a70f6a3272ae9a56e8c98b058442004f7e0a8e8be76f921a8ffa4",
+    "system_activity.csv": "8b8c3e81922b16810e7f40f86b9cf6097b7df6667f5e8ccb6b8306e7d9a3e2df",
+    "user_audit_log.csv": "d278c3965c8517a67ccff6cbe677a2c7f54919b88583ae44285d97c27954a2e8",
+    "user_identities.csv": "a2e4c2591708f841702ba2c7d675c07ea3b9aeb8a8892553ac3e1fca38df9e35",
+    "evidence/databases/primary_account_store.db": "8ec1de8aa26deb288877d784acdb05b754c8b2db2ad08d9e3100b45801faa24e",
+    "evidence/databases/regional_replica_db.db": "6ff1930abc7ddbbfe72d0c7eb188bae5e9068c702392296d623a8576a5078889"
+  }
+}

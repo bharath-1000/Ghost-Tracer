@@ -1,0 +1,519 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text
+case_001,clara.oswald@example.com,2026-09-01T10:00:00Z,NOT_STARTED,2026-09-01T10:05:00Z,2026-09-02T12:00:00Z,Please send me a copy of all my purchase history and personal data.
+case_002,marcos.silva@example.com,2026-09-01T11:00:00Z,NOT_STARTED,2026-09-01T11:05:00Z,2026-09-02T12:00:00Z,"Quiero cancelar mi suscripción al boletín de noticias, pero mantener mi cuenta activa."
+case_003,lucas.bernard@example.com,2026-09-01T12:00:00Z,NOT_STARTED,2026-09-01T12:05:00Z,2026-09-02T12:00:00Z,Je souhaite modifier mon adresse de livraison pour ma prochaine commande.
+case_004,jinwoo.park@example.com,2026-09-01T13:00:00Z,NOT_STARTED,2026-09-01T13:05:00Z,2026-09-02T12:00:00Z,비밀번호를 재설정하고 싶습니다. 계정을 삭제하지 마세요.
+case_005,kenji.sato@example.com,2026-09-01T14:00:00Z,NOT_STARTED,2026-09-01T14:05:00Z,2026-09-02T12:00:00Z,メールマガジンの配信を停止してください。
+case_006,beatriz.souza@example.com,2026-09-01T15:00:00Z,NOT_STARTED,2026-09-01T15:05:00Z,2026-09-02T12:00:00Z,"Por favor, NÃO apague a minha conta. Foi um engano."
+case_007,arthur.dent@example.com,2026-09-01T16:00:00Z,NOT_STARTED,2026-09-01T16:05:00Z,2026-09-02T12:00:00Z,I withdrew my earlier deletion request. Please keep my profile active.
+case_008,elena.rostova@example.com,2026-09-01T17:00:00Z,NOT_STARTED,2026-09-01T17:05:00Z,2026-09-02T12:00:00Z,How do I update my payment credit card details on file?
+case_009,sarah.connor@example.com,2026-09-02T08:00:00Z,COMPLETE,2026-09-02T09:00:00Z,2026-09-02T12:00:00Z,Please permanently erase my account and all personal information under GDPR Article 17.
+case_010,david.ross@example.com,2026-09-02T08:30:00Z,COMPLETE,2026-09-02T09:30:00Z,2026-09-02T12:00:00Z,Delete my user profile and order data immediately.
+case_011,camille.dupont@example.com,2026-09-02T09:00:00Z,COMPLETE,2026-09-02T10:00:00Z,2026-09-02T12:00:00Z,Supprimez définitivement mon compte et toutes mes données personnelles s'il vous plaît.
+case_012,rodrigo.alves@example.com,2026-09-02T09:30:00Z,COMPLETE,2026-09-02T10:30:00Z,2026-09-02T12:00:00Z,Solicito a exclusão total dos meus dados pessoais conforme a LGPD.
+case_013,hannah.schmidt@example.com,2026-09-02T10:00:00Z,COMPLETE,2026-09-02T11:00:00Z,2026-09-02T12:00:00Z,Please delete my account and anonymize past transactions.
+case_014,yuki.tanaka@example.com,2026-09-02T10:30:00Z,COMPLETE,2026-09-02T11:30:00Z,2026-09-02T12:00:00Z,個人情報保護法に基づき、私のアカウントおよび個人データをすべて削除してください。
+case_015,minjun.kim@example.com,2026-09-02T11:00:00Z,COMPLETE,2026-09-02T11:45:00Z,2026-09-02T12:00:00Z,제 계정과 관련된 모든 정보를 완전히 삭제해 주시기 바랍니다.
+case_016,gabriel.moreno@example.com,2026-09-02T11:15:00Z,COMPLETE,2026-09-02T11:50:00Z,2026-09-02T12:00:00Z,Deseo borrar mi cuenta y eliminar cualquier dato personal registrado.
+case_017,alice.wong@example.com,2026-09-03T08:00:00Z,COMPLETE,2026-09-03T08:30:00Z,2026-09-03T12:00:00Z,Please delete my account and all personal details.
+case_018,bob.miller@example.com,2026-09-03T08:15:00Z,COMPLETE,2026-09-03T08:45:00Z,2026-09-03T12:00:00Z,Erase all my data from your systems.
+case_019,claire.fontaine@example.com,2026-09-03T08:30:00Z,COMPLETE,2026-09-03T09:00:00Z,2026-09-03T12:00:00Z,Veuillez supprimer mon profil et toutes informations me concernant.
+case_020,diego.torres@example.com,2026-09-03T08:45:00Z,COMPLETE,2026-09-03T09:15:00Z,2026-09-03T12:00:00Z,Solicito la baja de mi cuenta y borrado total de registros.
+case_021,emma.watson@example.com,2026-09-03T09:00:00Z,PARTIALLY_COMPLETE,2026-09-03T09:30:00Z,2026-09-03T12:00:00Z,Kindly remove my customer account and mailing preferences.
+case_022,felipe.santos@example.com,2026-09-03T09:15:00Z,COMPLETE,2026-09-03T09:45:00Z,2026-09-03T12:00:00Z,Favor excluir definitivamente meu cadastro.
+case_023,grace.hopper@example.com,2026-09-03T09:30:00Z,COMPLETE,2026-09-03T10:00:00Z,2026-09-03T12:00:00Z,Delete my user profile completely.
+case_024,haruto.suzuki@example.com,2026-09-03T09:45:00Z,COMPLETE,2026-09-03T10:15:00Z,2026-09-03T12:00:00Z,アカウントの完全な削除をお願いします。
+case_025,isabella.rossi@example.com,2026-09-03T10:00:00Z,NOT_STARTED,2026-09-03T10:05:00Z,2026-09-03T12:00:00Z,I want to delete my account and all associated data.
+case_026,jihoon.lee@example.com,2026-09-03T10:15:00Z,COMPLETE,2026-09-03T10:45:00Z,2026-09-03T12:00:00Z,개인정보 삭제 요청합니다.
+case_027,karl.becker@example.com,2026-09-03T10:30:00Z,COMPLETE,2026-09-03T11:00:00Z,2026-09-03T12:00:00Z,Please delete my account and eradicate all personal tracking.
+case_028,leila.mahmoud@example.com,2026-09-03T10:45:00Z,PARTIALLY_COMPLETE,2026-09-03T11:15:00Z,2026-09-03T12:00:00Z,Erase my profile from the store database.
+case_029,mateo.garcia@example.com,2026-09-03T11:00:00Z,COMPLETE,2026-09-03T11:20:00Z,2026-09-03T12:00:00Z,Eliminen mi usuario y cualquier registro de compra.
+case_030,nadia.petrova@example.com,2026-09-03T11:15:00Z,COMPLETE,2026-09-03T11:35:00Z,2026-09-03T12:00:00Z,Please remove my account and unbind my email from search.
+case_031,oscar.wild@example.com,2026-09-03T11:30:00Z,COMPLETE,2026-09-03T11:45:00Z,2026-09-03T12:00:00Z,Purge my account entirely please.
+case_032,priya.sharma@example.com,2026-09-03T11:45:00Z,COMPLETE,2026-09-03T11:55:00Z,2026-09-03T12:00:00Z,"I request complete deletion of my profile, tickets, and analytics."
+case_033,chloé.johnson33@example.com,2026-09-08T02:00:00Z,PARTIALLY_COMPLETE,2026-09-08T02:45:00Z,2026-09-08T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_034,minho.johnson34@example.com,2026-09-08T04:00:00Z,COMPLETE,2026-09-08T04:45:00Z,2026-09-08T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_035,jiwoo.johnson35@example.com,2026-09-08T06:00:00Z,NOT_STARTED,2026-09-08T06:45:00Z,2026-09-08T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_036,ken.johnson36@example.com,2026-09-08T08:00:00Z,COMPLETE,2026-09-08T08:45:00Z,2026-09-08T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_037,yui.johnson37@example.com,2026-09-08T10:00:00Z,PARTIALLY_COMPLETE,2026-09-08T10:45:00Z,2026-09-08T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_038,mateo.johnson38@example.com,2026-09-08T12:00:00Z,COMPLETE,2026-09-08T12:45:00Z,2026-09-08T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_039,lucia.johnson39@example.com,2026-09-08T14:00:00Z,PARTIALLY_COMPLETE,2026-09-08T14:45:00Z,2026-09-08T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_040,james.williams40@example.com,2026-09-08T16:00:00Z,NOT_STARTED,2026-09-08T16:45:00Z,2026-09-08T20:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_041,emma.williams41@example.com,2026-09-08T18:00:00Z,PARTIALLY_COMPLETE,2026-09-08T18:45:00Z,2026-09-08T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_042,liam.williams42@example.com,2026-09-08T20:00:00Z,COMPLETE,2026-09-08T20:45:00Z,2026-09-09T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_043,olivia.williams43@example.com,2026-09-08T22:00:00Z,PARTIALLY_COMPLETE,2026-09-08T22:45:00Z,2026-09-09T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_044,noah.williams44@example.com,2026-09-09T00:00:00Z,COMPLETE,2026-09-09T00:45:00Z,2026-09-09T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_045,sophia.williams45@example.com,2026-09-09T02:00:00Z,NOT_STARTED,2026-09-09T02:45:00Z,2026-09-09T06:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_046,alexander.williams46@example.com,2026-09-09T04:00:00Z,COMPLETE,2026-09-09T04:45:00Z,2026-09-09T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_047,isabella.williams47@example.com,2026-09-09T06:00:00Z,PARTIALLY_COMPLETE,2026-09-09T06:45:00Z,2026-09-09T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_048,william.williams48@example.com,2026-09-09T08:00:00Z,COMPLETE,2026-09-09T08:45:00Z,2026-09-09T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_049,mia.williams49@example.com,2026-09-09T10:00:00Z,PARTIALLY_COMPLETE,2026-09-09T10:45:00Z,2026-09-09T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_050,carlos.williams50@example.com,2026-09-09T12:00:00Z,NOT_STARTED,2026-09-09T12:45:00Z,2026-09-09T16:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_051,ana.williams51@example.com,2026-09-09T14:00:00Z,PARTIALLY_COMPLETE,2026-09-09T14:45:00Z,2026-09-09T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_052,pierre.williams52@example.com,2026-09-09T16:00:00Z,COMPLETE,2026-09-09T16:45:00Z,2026-09-09T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_053,chloé.williams53@example.com,2026-09-09T18:00:00Z,PARTIALLY_COMPLETE,2026-09-09T18:45:00Z,2026-09-09T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_054,minho.williams54@example.com,2026-09-09T20:00:00Z,COMPLETE,2026-09-09T20:45:00Z,2026-09-10T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_055,jiwoo.williams55@example.com,2026-09-09T22:00:00Z,NOT_STARTED,2026-09-09T22:45:00Z,2026-09-10T02:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_056,ken.williams56@example.com,2026-09-10T00:00:00Z,COMPLETE,2026-09-10T00:45:00Z,2026-09-10T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_057,yui.williams57@example.com,2026-09-10T02:00:00Z,PARTIALLY_COMPLETE,2026-09-10T02:45:00Z,2026-09-10T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_058,mateo.williams58@example.com,2026-09-10T04:00:00Z,COMPLETE,2026-09-10T04:45:00Z,2026-09-10T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_059,lucia.williams59@example.com,2026-09-10T06:00:00Z,PARTIALLY_COMPLETE,2026-09-10T06:45:00Z,2026-09-10T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_060,james.brown60@example.com,2026-09-10T08:00:00Z,NOT_STARTED,2026-09-10T08:45:00Z,2026-09-10T12:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_061,emma.brown61@example.com,2026-09-10T10:00:00Z,PARTIALLY_COMPLETE,2026-09-10T10:45:00Z,2026-09-10T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_062,liam.brown62@example.com,2026-09-10T12:00:00Z,COMPLETE,2026-09-10T12:45:00Z,2026-09-10T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_063,olivia.brown63@example.com,2026-09-10T14:00:00Z,PARTIALLY_COMPLETE,2026-09-10T14:45:00Z,2026-09-10T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_064,noah.brown64@example.com,2026-09-10T16:00:00Z,COMPLETE,2026-09-10T16:45:00Z,2026-09-10T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_065,sophia.brown65@example.com,2026-09-10T18:00:00Z,NOT_STARTED,2026-09-10T18:45:00Z,2026-09-10T22:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_066,alexander.brown66@example.com,2026-09-10T20:00:00Z,COMPLETE,2026-09-10T20:45:00Z,2026-09-11T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_067,isabella.brown67@example.com,2026-09-10T22:00:00Z,PARTIALLY_COMPLETE,2026-09-10T22:45:00Z,2026-09-11T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_068,william.brown68@example.com,2026-09-11T00:00:00Z,COMPLETE,2026-09-11T00:45:00Z,2026-09-11T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_069,mia.brown69@example.com,2026-09-11T02:00:00Z,PARTIALLY_COMPLETE,2026-09-11T02:45:00Z,2026-09-11T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_070,carlos.brown70@example.com,2026-09-11T04:00:00Z,NOT_STARTED,2026-09-11T04:45:00Z,2026-09-11T08:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_071,ana.brown71@example.com,2026-09-11T06:00:00Z,PARTIALLY_COMPLETE,2026-09-11T06:45:00Z,2026-09-11T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_072,pierre.brown72@example.com,2026-09-11T08:00:00Z,COMPLETE,2026-09-11T08:45:00Z,2026-09-11T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_073,chloé.brown73@example.com,2026-09-11T10:00:00Z,PARTIALLY_COMPLETE,2026-09-11T10:45:00Z,2026-09-11T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_074,minho.brown74@example.com,2026-09-11T12:00:00Z,COMPLETE,2026-09-11T12:45:00Z,2026-09-11T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_075,jiwoo.brown75@example.com,2026-09-11T14:00:00Z,NOT_STARTED,2026-09-11T14:45:00Z,2026-09-11T18:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_076,ken.brown76@example.com,2026-09-11T16:00:00Z,COMPLETE,2026-09-11T16:45:00Z,2026-09-11T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_077,yui.brown77@example.com,2026-09-11T18:00:00Z,PARTIALLY_COMPLETE,2026-09-11T18:45:00Z,2026-09-11T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_078,mateo.brown78@example.com,2026-09-11T20:00:00Z,COMPLETE,2026-09-11T20:45:00Z,2026-09-12T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_079,lucia.brown79@example.com,2026-09-11T22:00:00Z,PARTIALLY_COMPLETE,2026-09-11T22:45:00Z,2026-09-12T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_080,james.jones80@example.com,2026-09-12T00:00:00Z,NOT_STARTED,2026-09-12T00:45:00Z,2026-09-12T04:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_081,emma.jones81@example.com,2026-09-12T02:00:00Z,PARTIALLY_COMPLETE,2026-09-12T02:45:00Z,2026-09-12T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_082,liam.jones82@example.com,2026-09-12T04:00:00Z,COMPLETE,2026-09-12T04:45:00Z,2026-09-12T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_083,olivia.jones83@example.com,2026-09-12T06:00:00Z,PARTIALLY_COMPLETE,2026-09-12T06:45:00Z,2026-09-12T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_084,noah.jones84@example.com,2026-09-12T08:00:00Z,COMPLETE,2026-09-12T08:45:00Z,2026-09-12T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_085,sophia.jones85@example.com,2026-09-12T10:00:00Z,NOT_STARTED,2026-09-12T10:45:00Z,2026-09-12T14:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_086,alexander.jones86@example.com,2026-09-12T12:00:00Z,COMPLETE,2026-09-12T12:45:00Z,2026-09-12T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_087,isabella.jones87@example.com,2026-09-12T14:00:00Z,PARTIALLY_COMPLETE,2026-09-12T14:45:00Z,2026-09-12T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_088,william.jones88@example.com,2026-09-12T16:00:00Z,COMPLETE,2026-09-12T16:45:00Z,2026-09-12T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_089,mia.jones89@example.com,2026-09-12T18:00:00Z,PARTIALLY_COMPLETE,2026-09-12T18:45:00Z,2026-09-12T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_090,carlos.jones90@example.com,2026-09-12T20:00:00Z,NOT_STARTED,2026-09-12T20:45:00Z,2026-09-13T00:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_091,ana.jones91@example.com,2026-09-12T22:00:00Z,PARTIALLY_COMPLETE,2026-09-12T22:45:00Z,2026-09-13T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_092,pierre.jones92@example.com,2026-09-13T00:00:00Z,COMPLETE,2026-09-13T00:45:00Z,2026-09-13T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_093,chloé.jones93@example.com,2026-09-13T02:00:00Z,PARTIALLY_COMPLETE,2026-09-13T02:45:00Z,2026-09-13T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_094,minho.jones94@example.com,2026-09-13T04:00:00Z,COMPLETE,2026-09-13T04:45:00Z,2026-09-13T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_095,jiwoo.jones95@example.com,2026-09-13T06:00:00Z,NOT_STARTED,2026-09-13T06:45:00Z,2026-09-13T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_096,ken.jones96@example.com,2026-09-13T08:00:00Z,COMPLETE,2026-09-13T08:45:00Z,2026-09-13T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_097,yui.jones97@example.com,2026-09-13T10:00:00Z,PARTIALLY_COMPLETE,2026-09-13T10:45:00Z,2026-09-13T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_098,mateo.jones98@example.com,2026-09-13T12:00:00Z,COMPLETE,2026-09-13T12:45:00Z,2026-09-13T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_099,lucia.jones99@example.com,2026-09-13T14:00:00Z,PARTIALLY_COMPLETE,2026-09-13T14:45:00Z,2026-09-13T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_100,james.garcia100@example.com,2026-09-13T16:00:00Z,NOT_STARTED,2026-09-13T16:45:00Z,2026-09-13T20:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_101,emma.garcia101@example.com,2026-09-13T18:00:00Z,PARTIALLY_COMPLETE,2026-09-13T18:45:00Z,2026-09-13T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_102,liam.garcia102@example.com,2026-09-13T20:00:00Z,COMPLETE,2026-09-13T20:45:00Z,2026-09-14T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_103,olivia.garcia103@example.com,2026-09-13T22:00:00Z,PARTIALLY_COMPLETE,2026-09-13T22:45:00Z,2026-09-14T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_104,noah.garcia104@example.com,2026-09-14T00:00:00Z,COMPLETE,2026-09-14T00:45:00Z,2026-09-14T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_105,sophia.garcia105@example.com,2026-09-14T02:00:00Z,NOT_STARTED,2026-09-14T02:45:00Z,2026-09-14T06:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_106,alexander.garcia106@example.com,2026-09-14T04:00:00Z,COMPLETE,2026-09-14T04:45:00Z,2026-09-14T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_107,isabella.garcia107@example.com,2026-09-14T06:00:00Z,PARTIALLY_COMPLETE,2026-09-14T06:45:00Z,2026-09-14T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_108,william.garcia108@example.com,2026-09-14T08:00:00Z,COMPLETE,2026-09-14T08:45:00Z,2026-09-14T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_109,mia.garcia109@example.com,2026-09-14T10:00:00Z,PARTIALLY_COMPLETE,2026-09-14T10:45:00Z,2026-09-14T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_110,carlos.garcia110@example.com,2026-09-14T12:00:00Z,NOT_STARTED,2026-09-14T12:45:00Z,2026-09-14T16:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_111,ana.garcia111@example.com,2026-09-14T14:00:00Z,PARTIALLY_COMPLETE,2026-09-14T14:45:00Z,2026-09-14T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_112,pierre.garcia112@example.com,2026-09-14T16:00:00Z,COMPLETE,2026-09-14T16:45:00Z,2026-09-14T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_113,chloé.garcia113@example.com,2026-09-14T18:00:00Z,PARTIALLY_COMPLETE,2026-09-14T18:45:00Z,2026-09-14T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_114,minho.garcia114@example.com,2026-09-14T20:00:00Z,COMPLETE,2026-09-14T20:45:00Z,2026-09-15T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_115,jiwoo.garcia115@example.com,2026-09-14T22:00:00Z,NOT_STARTED,2026-09-14T22:45:00Z,2026-09-15T02:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_116,ken.garcia116@example.com,2026-09-15T00:00:00Z,COMPLETE,2026-09-15T00:45:00Z,2026-09-15T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_117,yui.garcia117@example.com,2026-09-15T02:00:00Z,PARTIALLY_COMPLETE,2026-09-15T02:45:00Z,2026-09-15T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_118,mateo.garcia118@example.com,2026-09-15T04:00:00Z,COMPLETE,2026-09-15T04:45:00Z,2026-09-15T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_119,lucia.garcia119@example.com,2026-09-15T06:00:00Z,PARTIALLY_COMPLETE,2026-09-15T06:45:00Z,2026-09-15T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_120,james.miller120@example.com,2026-09-15T08:00:00Z,NOT_STARTED,2026-09-15T08:45:00Z,2026-09-15T12:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_121,emma.miller121@example.com,2026-09-15T10:00:00Z,PARTIALLY_COMPLETE,2026-09-15T10:45:00Z,2026-09-15T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_122,liam.miller122@example.com,2026-09-15T12:00:00Z,COMPLETE,2026-09-15T12:45:00Z,2026-09-15T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_123,olivia.miller123@example.com,2026-09-15T14:00:00Z,PARTIALLY_COMPLETE,2026-09-15T14:45:00Z,2026-09-15T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_124,noah.miller124@example.com,2026-09-15T16:00:00Z,COMPLETE,2026-09-15T16:45:00Z,2026-09-15T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_125,sophia.miller125@example.com,2026-09-15T18:00:00Z,NOT_STARTED,2026-09-15T18:45:00Z,2026-09-15T22:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_126,alexander.miller126@example.com,2026-09-15T20:00:00Z,COMPLETE,2026-09-15T20:45:00Z,2026-09-16T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_127,isabella.miller127@example.com,2026-09-15T22:00:00Z,PARTIALLY_COMPLETE,2026-09-15T22:45:00Z,2026-09-16T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_128,william.miller128@example.com,2026-09-16T00:00:00Z,COMPLETE,2026-09-16T00:45:00Z,2026-09-16T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_129,mia.miller129@example.com,2026-09-16T02:00:00Z,PARTIALLY_COMPLETE,2026-09-16T02:45:00Z,2026-09-16T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_130,carlos.miller130@example.com,2026-09-16T04:00:00Z,NOT_STARTED,2026-09-16T04:45:00Z,2026-09-16T08:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_131,ana.miller131@example.com,2026-09-16T06:00:00Z,PARTIALLY_COMPLETE,2026-09-16T06:45:00Z,2026-09-16T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_132,pierre.miller132@example.com,2026-09-16T08:00:00Z,COMPLETE,2026-09-16T08:45:00Z,2026-09-16T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_133,chloé.miller133@example.com,2026-09-16T10:00:00Z,PARTIALLY_COMPLETE,2026-09-16T10:45:00Z,2026-09-16T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_134,minho.miller134@example.com,2026-09-16T12:00:00Z,COMPLETE,2026-09-16T12:45:00Z,2026-09-16T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_135,jiwoo.miller135@example.com,2026-09-16T14:00:00Z,NOT_STARTED,2026-09-16T14:45:00Z,2026-09-16T18:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_136,ken.miller136@example.com,2026-09-16T16:00:00Z,COMPLETE,2026-09-16T16:45:00Z,2026-09-16T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_137,yui.miller137@example.com,2026-09-16T18:00:00Z,PARTIALLY_COMPLETE,2026-09-16T18:45:00Z,2026-09-16T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_138,mateo.miller138@example.com,2026-09-16T20:00:00Z,COMPLETE,2026-09-16T20:45:00Z,2026-09-17T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_139,lucia.miller139@example.com,2026-09-16T22:00:00Z,PARTIALLY_COMPLETE,2026-09-16T22:45:00Z,2026-09-17T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_140,james.davis140@example.com,2026-09-17T00:00:00Z,NOT_STARTED,2026-09-17T00:45:00Z,2026-09-17T04:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_141,emma.davis141@example.com,2026-09-17T02:00:00Z,PARTIALLY_COMPLETE,2026-09-17T02:45:00Z,2026-09-17T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_142,liam.davis142@example.com,2026-09-17T04:00:00Z,COMPLETE,2026-09-17T04:45:00Z,2026-09-17T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_143,olivia.davis143@example.com,2026-09-17T06:00:00Z,PARTIALLY_COMPLETE,2026-09-17T06:45:00Z,2026-09-17T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_144,noah.davis144@example.com,2026-09-17T08:00:00Z,COMPLETE,2026-09-17T08:45:00Z,2026-09-17T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_145,sophia.davis145@example.com,2026-09-17T10:00:00Z,NOT_STARTED,2026-09-17T10:45:00Z,2026-09-17T14:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_146,alexander.davis146@example.com,2026-09-17T12:00:00Z,COMPLETE,2026-09-17T12:45:00Z,2026-09-17T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_147,isabella.davis147@example.com,2026-09-17T14:00:00Z,PARTIALLY_COMPLETE,2026-09-17T14:45:00Z,2026-09-17T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_148,william.davis148@example.com,2026-09-17T16:00:00Z,COMPLETE,2026-09-17T16:45:00Z,2026-09-17T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_149,mia.davis149@example.com,2026-09-17T18:00:00Z,PARTIALLY_COMPLETE,2026-09-17T18:45:00Z,2026-09-17T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_150,carlos.davis150@example.com,2026-09-17T20:00:00Z,NOT_STARTED,2026-09-17T20:45:00Z,2026-09-18T00:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_151,ana.davis151@example.com,2026-09-17T22:00:00Z,PARTIALLY_COMPLETE,2026-09-17T22:45:00Z,2026-09-18T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_152,pierre.davis152@example.com,2026-09-18T00:00:00Z,COMPLETE,2026-09-18T00:45:00Z,2026-09-18T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_153,chloé.davis153@example.com,2026-09-18T02:00:00Z,PARTIALLY_COMPLETE,2026-09-18T02:45:00Z,2026-09-18T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_154,minho.davis154@example.com,2026-09-18T04:00:00Z,COMPLETE,2026-09-18T04:45:00Z,2026-09-18T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_155,jiwoo.davis155@example.com,2026-09-18T06:00:00Z,NOT_STARTED,2026-09-18T06:45:00Z,2026-09-18T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_156,ken.davis156@example.com,2026-09-18T08:00:00Z,COMPLETE,2026-09-18T08:45:00Z,2026-09-18T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_157,yui.davis157@example.com,2026-09-18T10:00:00Z,PARTIALLY_COMPLETE,2026-09-18T10:45:00Z,2026-09-18T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_158,mateo.davis158@example.com,2026-09-18T12:00:00Z,COMPLETE,2026-09-18T12:45:00Z,2026-09-18T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_159,lucia.davis159@example.com,2026-09-18T14:00:00Z,PARTIALLY_COMPLETE,2026-09-18T14:45:00Z,2026-09-18T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_160,james.rodriguez160@example.com,2026-09-18T16:00:00Z,NOT_STARTED,2026-09-18T16:45:00Z,2026-09-18T20:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_161,emma.rodriguez161@example.com,2026-09-18T18:00:00Z,PARTIALLY_COMPLETE,2026-09-18T18:45:00Z,2026-09-18T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_162,liam.rodriguez162@example.com,2026-09-18T20:00:00Z,COMPLETE,2026-09-18T20:45:00Z,2026-09-19T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_163,olivia.rodriguez163@example.com,2026-09-18T22:00:00Z,PARTIALLY_COMPLETE,2026-09-18T22:45:00Z,2026-09-19T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_164,noah.rodriguez164@example.com,2026-09-19T00:00:00Z,COMPLETE,2026-09-19T00:45:00Z,2026-09-19T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_165,sophia.rodriguez165@example.com,2026-09-19T02:00:00Z,NOT_STARTED,2026-09-19T02:45:00Z,2026-09-19T06:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_166,alexander.rodriguez166@example.com,2026-09-19T04:00:00Z,COMPLETE,2026-09-19T04:45:00Z,2026-09-19T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_167,isabella.rodriguez167@example.com,2026-09-19T06:00:00Z,PARTIALLY_COMPLETE,2026-09-19T06:45:00Z,2026-09-19T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_168,william.rodriguez168@example.com,2026-09-19T08:00:00Z,COMPLETE,2026-09-19T08:45:00Z,2026-09-19T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_169,mia.rodriguez169@example.com,2026-09-19T10:00:00Z,PARTIALLY_COMPLETE,2026-09-19T10:45:00Z,2026-09-19T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_170,carlos.rodriguez170@example.com,2026-09-19T12:00:00Z,NOT_STARTED,2026-09-19T12:45:00Z,2026-09-19T16:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_171,ana.rodriguez171@example.com,2026-09-19T14:00:00Z,PARTIALLY_COMPLETE,2026-09-19T14:45:00Z,2026-09-19T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_172,pierre.rodriguez172@example.com,2026-09-19T16:00:00Z,COMPLETE,2026-09-19T16:45:00Z,2026-09-19T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_173,chloé.rodriguez173@example.com,2026-09-19T18:00:00Z,PARTIALLY_COMPLETE,2026-09-19T18:45:00Z,2026-09-19T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_174,minho.rodriguez174@example.com,2026-09-19T20:00:00Z,COMPLETE,2026-09-19T20:45:00Z,2026-09-20T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_175,jiwoo.rodriguez175@example.com,2026-09-19T22:00:00Z,NOT_STARTED,2026-09-19T22:45:00Z,2026-09-20T02:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_176,ken.rodriguez176@example.com,2026-09-20T00:00:00Z,COMPLETE,2026-09-20T00:45:00Z,2026-09-20T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_177,yui.rodriguez177@example.com,2026-09-20T02:00:00Z,PARTIALLY_COMPLETE,2026-09-20T02:45:00Z,2026-09-20T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_178,mateo.rodriguez178@example.com,2026-09-20T04:00:00Z,COMPLETE,2026-09-20T04:45:00Z,2026-09-20T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_179,lucia.rodriguez179@example.com,2026-09-20T06:00:00Z,PARTIALLY_COMPLETE,2026-09-20T06:45:00Z,2026-09-20T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_180,james.martinez180@example.com,2026-09-20T08:00:00Z,NOT_STARTED,2026-09-20T08:45:00Z,2026-09-20T12:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_181,emma.martinez181@example.com,2026-09-20T10:00:00Z,PARTIALLY_COMPLETE,2026-09-20T10:45:00Z,2026-09-20T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_182,liam.martinez182@example.com,2026-09-20T12:00:00Z,COMPLETE,2026-09-20T12:45:00Z,2026-09-20T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_183,olivia.martinez183@example.com,2026-09-20T14:00:00Z,PARTIALLY_COMPLETE,2026-09-20T14:45:00Z,2026-09-20T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_184,noah.martinez184@example.com,2026-09-20T16:00:00Z,COMPLETE,2026-09-20T16:45:00Z,2026-09-20T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_185,sophia.martinez185@example.com,2026-09-20T18:00:00Z,NOT_STARTED,2026-09-20T18:45:00Z,2026-09-20T22:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_186,alexander.martinez186@example.com,2026-09-20T20:00:00Z,COMPLETE,2026-09-20T20:45:00Z,2026-09-21T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_187,isabella.martinez187@example.com,2026-09-20T22:00:00Z,PARTIALLY_COMPLETE,2026-09-20T22:45:00Z,2026-09-21T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_188,william.martinez188@example.com,2026-09-21T00:00:00Z,COMPLETE,2026-09-21T00:45:00Z,2026-09-21T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_189,mia.martinez189@example.com,2026-09-21T02:00:00Z,PARTIALLY_COMPLETE,2026-09-21T02:45:00Z,2026-09-21T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_190,carlos.martinez190@example.com,2026-09-21T04:00:00Z,NOT_STARTED,2026-09-21T04:45:00Z,2026-09-21T08:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_191,ana.martinez191@example.com,2026-09-21T06:00:00Z,PARTIALLY_COMPLETE,2026-09-21T06:45:00Z,2026-09-21T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_192,pierre.martinez192@example.com,2026-09-21T08:00:00Z,COMPLETE,2026-09-21T08:45:00Z,2026-09-21T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_193,chloé.martinez193@example.com,2026-09-21T10:00:00Z,PARTIALLY_COMPLETE,2026-09-21T10:45:00Z,2026-09-21T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_194,minho.martinez194@example.com,2026-09-21T12:00:00Z,COMPLETE,2026-09-21T12:45:00Z,2026-09-21T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_195,jiwoo.martinez195@example.com,2026-09-21T14:00:00Z,NOT_STARTED,2026-09-21T14:45:00Z,2026-09-21T18:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_196,ken.martinez196@example.com,2026-09-21T16:00:00Z,COMPLETE,2026-09-21T16:45:00Z,2026-09-21T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_197,yui.martinez197@example.com,2026-09-21T18:00:00Z,PARTIALLY_COMPLETE,2026-09-21T18:45:00Z,2026-09-21T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_198,mateo.martinez198@example.com,2026-09-21T20:00:00Z,COMPLETE,2026-09-21T20:45:00Z,2026-09-22T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_199,lucia.martinez199@example.com,2026-09-21T22:00:00Z,PARTIALLY_COMPLETE,2026-09-21T22:45:00Z,2026-09-22T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_200,james.dubois200@example.com,2026-09-22T00:00:00Z,NOT_STARTED,2026-09-22T00:45:00Z,2026-09-22T04:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_201,emma.dubois201@example.com,2026-09-22T02:00:00Z,PARTIALLY_COMPLETE,2026-09-22T02:45:00Z,2026-09-22T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_202,liam.dubois202@example.com,2026-09-22T04:00:00Z,COMPLETE,2026-09-22T04:45:00Z,2026-09-22T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_203,olivia.dubois203@example.com,2026-09-22T06:00:00Z,PARTIALLY_COMPLETE,2026-09-22T06:45:00Z,2026-09-22T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_204,noah.dubois204@example.com,2026-09-22T08:00:00Z,COMPLETE,2026-09-22T08:45:00Z,2026-09-22T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_205,sophia.dubois205@example.com,2026-09-22T10:00:00Z,NOT_STARTED,2026-09-22T10:45:00Z,2026-09-22T14:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_206,alexander.dubois206@example.com,2026-09-22T12:00:00Z,COMPLETE,2026-09-22T12:45:00Z,2026-09-22T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_207,isabella.dubois207@example.com,2026-09-22T14:00:00Z,PARTIALLY_COMPLETE,2026-09-22T14:45:00Z,2026-09-22T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_208,william.dubois208@example.com,2026-09-22T16:00:00Z,COMPLETE,2026-09-22T16:45:00Z,2026-09-22T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_209,mia.dubois209@example.com,2026-09-22T18:00:00Z,PARTIALLY_COMPLETE,2026-09-22T18:45:00Z,2026-09-22T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_210,carlos.dubois210@example.com,2026-09-22T20:00:00Z,NOT_STARTED,2026-09-22T20:45:00Z,2026-09-23T00:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_211,ana.dubois211@example.com,2026-09-22T22:00:00Z,PARTIALLY_COMPLETE,2026-09-22T22:45:00Z,2026-09-23T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_212,pierre.dubois212@example.com,2026-09-23T00:00:00Z,COMPLETE,2026-09-23T00:45:00Z,2026-09-23T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_213,chloé.dubois213@example.com,2026-09-23T02:00:00Z,PARTIALLY_COMPLETE,2026-09-23T02:45:00Z,2026-09-23T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_214,minho.dubois214@example.com,2026-09-23T04:00:00Z,COMPLETE,2026-09-23T04:45:00Z,2026-09-23T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_215,jiwoo.dubois215@example.com,2026-09-23T06:00:00Z,NOT_STARTED,2026-09-23T06:45:00Z,2026-09-23T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_216,ken.dubois216@example.com,2026-09-23T08:00:00Z,COMPLETE,2026-09-23T08:45:00Z,2026-09-23T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_217,yui.dubois217@example.com,2026-09-23T10:00:00Z,PARTIALLY_COMPLETE,2026-09-23T10:45:00Z,2026-09-23T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_218,mateo.dubois218@example.com,2026-09-23T12:00:00Z,COMPLETE,2026-09-23T12:45:00Z,2026-09-23T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_219,lucia.dubois219@example.com,2026-09-23T14:00:00Z,PARTIALLY_COMPLETE,2026-09-23T14:45:00Z,2026-09-23T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_220,james.moreau220@example.com,2026-09-23T16:00:00Z,NOT_STARTED,2026-09-23T16:45:00Z,2026-09-23T20:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_221,emma.moreau221@example.com,2026-09-23T18:00:00Z,PARTIALLY_COMPLETE,2026-09-23T18:45:00Z,2026-09-23T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_222,liam.moreau222@example.com,2026-09-23T20:00:00Z,COMPLETE,2026-09-23T20:45:00Z,2026-09-24T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_223,olivia.moreau223@example.com,2026-09-23T22:00:00Z,PARTIALLY_COMPLETE,2026-09-23T22:45:00Z,2026-09-24T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_224,noah.moreau224@example.com,2026-09-24T00:00:00Z,COMPLETE,2026-09-24T00:45:00Z,2026-09-24T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_225,sophia.moreau225@example.com,2026-09-24T02:00:00Z,NOT_STARTED,2026-09-24T02:45:00Z,2026-09-24T06:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_226,alexander.moreau226@example.com,2026-09-24T04:00:00Z,COMPLETE,2026-09-24T04:45:00Z,2026-09-24T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_227,isabella.moreau227@example.com,2026-09-24T06:00:00Z,PARTIALLY_COMPLETE,2026-09-24T06:45:00Z,2026-09-24T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_228,william.moreau228@example.com,2026-09-24T08:00:00Z,COMPLETE,2026-09-24T08:45:00Z,2026-09-24T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_229,mia.moreau229@example.com,2026-09-24T10:00:00Z,PARTIALLY_COMPLETE,2026-09-24T10:45:00Z,2026-09-24T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_230,carlos.moreau230@example.com,2026-09-24T12:00:00Z,NOT_STARTED,2026-09-24T12:45:00Z,2026-09-24T16:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_231,ana.moreau231@example.com,2026-09-24T14:00:00Z,PARTIALLY_COMPLETE,2026-09-24T14:45:00Z,2026-09-24T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_232,pierre.moreau232@example.com,2026-09-24T16:00:00Z,COMPLETE,2026-09-24T16:45:00Z,2026-09-24T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_233,chloé.moreau233@example.com,2026-09-24T18:00:00Z,PARTIALLY_COMPLETE,2026-09-24T18:45:00Z,2026-09-24T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_234,minho.moreau234@example.com,2026-09-24T20:00:00Z,COMPLETE,2026-09-24T20:45:00Z,2026-09-25T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_235,jiwoo.moreau235@example.com,2026-09-24T22:00:00Z,NOT_STARTED,2026-09-24T22:45:00Z,2026-09-25T02:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_236,ken.moreau236@example.com,2026-09-25T00:00:00Z,COMPLETE,2026-09-25T00:45:00Z,2026-09-25T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_237,yui.moreau237@example.com,2026-09-25T02:00:00Z,PARTIALLY_COMPLETE,2026-09-25T02:45:00Z,2026-09-25T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_238,mateo.moreau238@example.com,2026-09-25T04:00:00Z,COMPLETE,2026-09-25T04:45:00Z,2026-09-25T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_239,lucia.moreau239@example.com,2026-09-25T06:00:00Z,PARTIALLY_COMPLETE,2026-09-25T06:45:00Z,2026-09-25T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_240,james.kim240@example.com,2026-09-25T08:00:00Z,NOT_STARTED,2026-09-25T08:45:00Z,2026-09-25T12:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_241,emma.kim241@example.com,2026-09-25T10:00:00Z,PARTIALLY_COMPLETE,2026-09-25T10:45:00Z,2026-09-25T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_242,liam.kim242@example.com,2026-09-25T12:00:00Z,COMPLETE,2026-09-25T12:45:00Z,2026-09-25T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_243,olivia.kim243@example.com,2026-09-25T14:00:00Z,PARTIALLY_COMPLETE,2026-09-25T14:45:00Z,2026-09-25T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_244,noah.kim244@example.com,2026-09-25T16:00:00Z,COMPLETE,2026-09-25T16:45:00Z,2026-09-25T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_245,sophia.kim245@example.com,2026-09-25T18:00:00Z,NOT_STARTED,2026-09-25T18:45:00Z,2026-09-25T22:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_246,alexander.kim246@example.com,2026-09-25T20:00:00Z,COMPLETE,2026-09-25T20:45:00Z,2026-09-26T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_247,isabella.kim247@example.com,2026-09-25T22:00:00Z,PARTIALLY_COMPLETE,2026-09-25T22:45:00Z,2026-09-26T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_248,william.kim248@example.com,2026-09-26T00:00:00Z,COMPLETE,2026-09-26T00:45:00Z,2026-09-26T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_249,mia.kim249@example.com,2026-09-26T02:00:00Z,PARTIALLY_COMPLETE,2026-09-26T02:45:00Z,2026-09-26T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_250,carlos.kim250@example.com,2026-09-26T04:00:00Z,NOT_STARTED,2026-09-26T04:45:00Z,2026-09-26T08:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_251,ana.kim251@example.com,2026-09-26T06:00:00Z,PARTIALLY_COMPLETE,2026-09-26T06:45:00Z,2026-09-26T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_252,pierre.kim252@example.com,2026-09-26T08:00:00Z,COMPLETE,2026-09-26T08:45:00Z,2026-09-26T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_253,chloé.kim253@example.com,2026-09-26T10:00:00Z,PARTIALLY_COMPLETE,2026-09-26T10:45:00Z,2026-09-26T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_254,minho.kim254@example.com,2026-09-26T12:00:00Z,COMPLETE,2026-09-26T12:45:00Z,2026-09-26T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_255,jiwoo.kim255@example.com,2026-09-26T14:00:00Z,NOT_STARTED,2026-09-26T14:45:00Z,2026-09-26T18:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_256,ken.kim256@example.com,2026-09-26T16:00:00Z,COMPLETE,2026-09-26T16:45:00Z,2026-09-26T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_257,yui.kim257@example.com,2026-09-26T18:00:00Z,PARTIALLY_COMPLETE,2026-09-26T18:45:00Z,2026-09-26T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_258,mateo.kim258@example.com,2026-09-26T20:00:00Z,COMPLETE,2026-09-26T20:45:00Z,2026-09-27T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_259,lucia.kim259@example.com,2026-09-26T22:00:00Z,PARTIALLY_COMPLETE,2026-09-26T22:45:00Z,2026-09-27T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_260,james.lee260@example.com,2026-09-27T00:00:00Z,NOT_STARTED,2026-09-27T00:45:00Z,2026-09-27T04:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_261,emma.lee261@example.com,2026-09-27T02:00:00Z,PARTIALLY_COMPLETE,2026-09-27T02:45:00Z,2026-09-27T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_262,liam.lee262@example.com,2026-09-27T04:00:00Z,COMPLETE,2026-09-27T04:45:00Z,2026-09-27T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_263,olivia.lee263@example.com,2026-09-27T06:00:00Z,PARTIALLY_COMPLETE,2026-09-27T06:45:00Z,2026-09-27T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_264,noah.lee264@example.com,2026-09-27T08:00:00Z,COMPLETE,2026-09-27T08:45:00Z,2026-09-27T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_265,sophia.lee265@example.com,2026-09-27T10:00:00Z,NOT_STARTED,2026-09-27T10:45:00Z,2026-09-27T14:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_266,alexander.lee266@example.com,2026-09-27T12:00:00Z,COMPLETE,2026-09-27T12:45:00Z,2026-09-27T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_267,isabella.lee267@example.com,2026-09-27T14:00:00Z,PARTIALLY_COMPLETE,2026-09-27T14:45:00Z,2026-09-27T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_268,william.lee268@example.com,2026-09-27T16:00:00Z,COMPLETE,2026-09-27T16:45:00Z,2026-09-27T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_269,mia.lee269@example.com,2026-09-27T18:00:00Z,PARTIALLY_COMPLETE,2026-09-27T18:45:00Z,2026-09-27T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_270,carlos.lee270@example.com,2026-09-27T20:00:00Z,NOT_STARTED,2026-09-27T20:45:00Z,2026-09-28T00:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_271,ana.lee271@example.com,2026-09-27T22:00:00Z,PARTIALLY_COMPLETE,2026-09-27T22:45:00Z,2026-09-28T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_272,pierre.lee272@example.com,2026-09-28T00:00:00Z,COMPLETE,2026-09-28T00:45:00Z,2026-09-28T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_273,chloé.lee273@example.com,2026-09-28T02:00:00Z,PARTIALLY_COMPLETE,2026-09-28T02:45:00Z,2026-09-28T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_274,minho.lee274@example.com,2026-09-28T04:00:00Z,COMPLETE,2026-09-28T04:45:00Z,2026-09-28T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_275,jiwoo.lee275@example.com,2026-09-28T06:00:00Z,NOT_STARTED,2026-09-28T06:45:00Z,2026-09-28T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_276,ken.lee276@example.com,2026-09-28T08:00:00Z,COMPLETE,2026-09-28T08:45:00Z,2026-09-28T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_277,yui.lee277@example.com,2026-09-28T10:00:00Z,PARTIALLY_COMPLETE,2026-09-28T10:45:00Z,2026-09-28T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_278,mateo.lee278@example.com,2026-09-28T12:00:00Z,COMPLETE,2026-09-28T12:45:00Z,2026-09-28T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_279,lucia.lee279@example.com,2026-09-28T14:00:00Z,PARTIALLY_COMPLETE,2026-09-28T14:45:00Z,2026-09-28T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_280,james.sato280@example.com,2026-09-28T16:00:00Z,NOT_STARTED,2026-09-28T16:45:00Z,2026-09-28T20:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_281,emma.sato281@example.com,2026-09-28T18:00:00Z,PARTIALLY_COMPLETE,2026-09-28T18:45:00Z,2026-09-28T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_282,liam.sato282@example.com,2026-09-28T20:00:00Z,COMPLETE,2026-09-28T20:45:00Z,2026-09-29T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_283,olivia.sato283@example.com,2026-09-28T22:00:00Z,PARTIALLY_COMPLETE,2026-09-28T22:45:00Z,2026-09-29T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_284,noah.sato284@example.com,2026-09-29T00:00:00Z,COMPLETE,2026-09-29T00:45:00Z,2026-09-29T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_285,sophia.sato285@example.com,2026-09-29T02:00:00Z,NOT_STARTED,2026-09-29T02:45:00Z,2026-09-29T06:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_286,alexander.sato286@example.com,2026-09-29T04:00:00Z,COMPLETE,2026-09-29T04:45:00Z,2026-09-29T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_287,isabella.sato287@example.com,2026-09-29T06:00:00Z,PARTIALLY_COMPLETE,2026-09-29T06:45:00Z,2026-09-29T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_288,william.sato288@example.com,2026-09-29T08:00:00Z,COMPLETE,2026-09-29T08:45:00Z,2026-09-29T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_289,mia.sato289@example.com,2026-09-29T10:00:00Z,PARTIALLY_COMPLETE,2026-09-29T10:45:00Z,2026-09-29T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_290,carlos.sato290@example.com,2026-09-29T12:00:00Z,NOT_STARTED,2026-09-29T12:45:00Z,2026-09-29T16:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_291,ana.sato291@example.com,2026-09-29T14:00:00Z,PARTIALLY_COMPLETE,2026-09-29T14:45:00Z,2026-09-29T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_292,pierre.sato292@example.com,2026-09-29T16:00:00Z,COMPLETE,2026-09-29T16:45:00Z,2026-09-29T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_293,chloé.sato293@example.com,2026-09-29T18:00:00Z,PARTIALLY_COMPLETE,2026-09-29T18:45:00Z,2026-09-29T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_294,minho.sato294@example.com,2026-09-29T20:00:00Z,COMPLETE,2026-09-29T20:45:00Z,2026-09-30T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_295,jiwoo.sato295@example.com,2026-09-29T22:00:00Z,NOT_STARTED,2026-09-29T22:45:00Z,2026-09-30T02:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_296,ken.sato296@example.com,2026-09-30T00:00:00Z,COMPLETE,2026-09-30T00:45:00Z,2026-09-30T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_297,yui.sato297@example.com,2026-09-30T02:00:00Z,PARTIALLY_COMPLETE,2026-09-30T02:45:00Z,2026-09-30T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_298,mateo.sato298@example.com,2026-09-30T04:00:00Z,COMPLETE,2026-09-30T04:45:00Z,2026-09-30T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_299,lucia.sato299@example.com,2026-09-30T06:00:00Z,PARTIALLY_COMPLETE,2026-09-30T06:45:00Z,2026-09-30T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_300,james.takahashi300@example.com,2026-09-30T08:00:00Z,NOT_STARTED,2026-09-30T08:45:00Z,2026-09-30T12:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_301,emma.takahashi301@example.com,2026-09-30T10:00:00Z,PARTIALLY_COMPLETE,2026-09-30T10:45:00Z,2026-09-30T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_302,liam.takahashi302@example.com,2026-09-30T12:00:00Z,COMPLETE,2026-09-30T12:45:00Z,2026-09-30T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_303,olivia.takahashi303@example.com,2026-09-30T14:00:00Z,PARTIALLY_COMPLETE,2026-09-30T14:45:00Z,2026-09-30T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_304,noah.takahashi304@example.com,2026-09-30T16:00:00Z,COMPLETE,2026-09-30T16:45:00Z,2026-09-30T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_305,sophia.takahashi305@example.com,2026-09-30T18:00:00Z,NOT_STARTED,2026-09-30T18:45:00Z,2026-09-30T22:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_306,alexander.takahashi306@example.com,2026-09-30T20:00:00Z,COMPLETE,2026-09-30T20:45:00Z,2026-10-01T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_307,isabella.takahashi307@example.com,2026-09-30T22:00:00Z,PARTIALLY_COMPLETE,2026-09-30T22:45:00Z,2026-10-01T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_308,william.takahashi308@example.com,2026-10-01T00:00:00Z,COMPLETE,2026-10-01T00:45:00Z,2026-10-01T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_309,mia.takahashi309@example.com,2026-10-01T02:00:00Z,PARTIALLY_COMPLETE,2026-10-01T02:45:00Z,2026-10-01T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_310,carlos.takahashi310@example.com,2026-10-01T04:00:00Z,NOT_STARTED,2026-10-01T04:45:00Z,2026-10-01T08:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_311,ana.takahashi311@example.com,2026-10-01T06:00:00Z,PARTIALLY_COMPLETE,2026-10-01T06:45:00Z,2026-10-01T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_312,pierre.takahashi312@example.com,2026-10-01T08:00:00Z,COMPLETE,2026-10-01T08:45:00Z,2026-10-01T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_313,chloé.takahashi313@example.com,2026-10-01T10:00:00Z,PARTIALLY_COMPLETE,2026-10-01T10:45:00Z,2026-10-01T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_314,minho.takahashi314@example.com,2026-10-01T12:00:00Z,COMPLETE,2026-10-01T12:45:00Z,2026-10-01T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_315,jiwoo.takahashi315@example.com,2026-10-01T14:00:00Z,NOT_STARTED,2026-10-01T14:45:00Z,2026-10-01T18:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_316,ken.takahashi316@example.com,2026-10-01T16:00:00Z,COMPLETE,2026-10-01T16:45:00Z,2026-10-01T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_317,yui.takahashi317@example.com,2026-10-01T18:00:00Z,PARTIALLY_COMPLETE,2026-10-01T18:45:00Z,2026-10-01T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_318,mateo.takahashi318@example.com,2026-10-01T20:00:00Z,COMPLETE,2026-10-01T20:45:00Z,2026-10-02T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_319,lucia.takahashi319@example.com,2026-10-01T22:00:00Z,PARTIALLY_COMPLETE,2026-10-01T22:45:00Z,2026-10-02T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_320,james.silva320@example.com,2026-10-02T00:00:00Z,NOT_STARTED,2026-10-02T00:45:00Z,2026-10-02T04:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_321,emma.silva321@example.com,2026-10-02T02:00:00Z,PARTIALLY_COMPLETE,2026-10-02T02:45:00Z,2026-10-02T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_322,liam.silva322@example.com,2026-10-02T04:00:00Z,COMPLETE,2026-10-02T04:45:00Z,2026-10-02T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_323,olivia.silva323@example.com,2026-10-02T06:00:00Z,PARTIALLY_COMPLETE,2026-10-02T06:45:00Z,2026-10-02T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_324,noah.silva324@example.com,2026-10-02T08:00:00Z,COMPLETE,2026-10-02T08:45:00Z,2026-10-02T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_325,sophia.silva325@example.com,2026-10-02T10:00:00Z,NOT_STARTED,2026-10-02T10:45:00Z,2026-10-02T14:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_326,alexander.silva326@example.com,2026-10-02T12:00:00Z,COMPLETE,2026-10-02T12:45:00Z,2026-10-02T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_327,isabella.silva327@example.com,2026-10-02T14:00:00Z,PARTIALLY_COMPLETE,2026-10-02T14:45:00Z,2026-10-02T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_328,william.silva328@example.com,2026-10-02T16:00:00Z,COMPLETE,2026-10-02T16:45:00Z,2026-10-02T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_329,mia.silva329@example.com,2026-10-02T18:00:00Z,PARTIALLY_COMPLETE,2026-10-02T18:45:00Z,2026-10-02T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_330,carlos.silva330@example.com,2026-10-02T20:00:00Z,NOT_STARTED,2026-10-02T20:45:00Z,2026-10-03T00:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_331,ana.silva331@example.com,2026-10-02T22:00:00Z,PARTIALLY_COMPLETE,2026-10-02T22:45:00Z,2026-10-03T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_332,pierre.silva332@example.com,2026-10-03T00:00:00Z,COMPLETE,2026-10-03T00:45:00Z,2026-10-03T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_333,chloé.silva333@example.com,2026-10-03T02:00:00Z,PARTIALLY_COMPLETE,2026-10-03T02:45:00Z,2026-10-03T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_334,minho.silva334@example.com,2026-10-03T04:00:00Z,COMPLETE,2026-10-03T04:45:00Z,2026-10-03T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_335,jiwoo.silva335@example.com,2026-10-03T06:00:00Z,NOT_STARTED,2026-10-03T06:45:00Z,2026-10-03T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_336,ken.silva336@example.com,2026-10-03T08:00:00Z,COMPLETE,2026-10-03T08:45:00Z,2026-10-03T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_337,yui.silva337@example.com,2026-10-03T10:00:00Z,PARTIALLY_COMPLETE,2026-10-03T10:45:00Z,2026-10-03T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_338,mateo.silva338@example.com,2026-10-03T12:00:00Z,COMPLETE,2026-10-03T12:45:00Z,2026-10-03T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_339,lucia.silva339@example.com,2026-10-03T14:00:00Z,PARTIALLY_COMPLETE,2026-10-03T14:45:00Z,2026-10-03T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_340,james.santos340@example.com,2026-10-03T16:00:00Z,NOT_STARTED,2026-10-03T16:45:00Z,2026-10-03T20:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_341,emma.santos341@example.com,2026-10-03T18:00:00Z,PARTIALLY_COMPLETE,2026-10-03T18:45:00Z,2026-10-03T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_342,liam.santos342@example.com,2026-10-03T20:00:00Z,COMPLETE,2026-10-03T20:45:00Z,2026-10-04T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_343,olivia.santos343@example.com,2026-10-03T22:00:00Z,PARTIALLY_COMPLETE,2026-10-03T22:45:00Z,2026-10-04T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_344,noah.santos344@example.com,2026-10-04T00:00:00Z,COMPLETE,2026-10-04T00:45:00Z,2026-10-04T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_345,sophia.santos345@example.com,2026-10-04T02:00:00Z,NOT_STARTED,2026-10-04T02:45:00Z,2026-10-04T06:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_346,alexander.santos346@example.com,2026-10-04T04:00:00Z,COMPLETE,2026-10-04T04:45:00Z,2026-10-04T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_347,isabella.santos347@example.com,2026-10-04T06:00:00Z,PARTIALLY_COMPLETE,2026-10-04T06:45:00Z,2026-10-04T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_348,william.santos348@example.com,2026-10-04T08:00:00Z,COMPLETE,2026-10-04T08:45:00Z,2026-10-04T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_349,mia.santos349@example.com,2026-10-04T10:00:00Z,PARTIALLY_COMPLETE,2026-10-04T10:45:00Z,2026-10-04T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_350,carlos.santos350@example.com,2026-10-04T12:00:00Z,NOT_STARTED,2026-10-04T12:45:00Z,2026-10-04T16:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_351,ana.santos351@example.com,2026-10-04T14:00:00Z,PARTIALLY_COMPLETE,2026-10-04T14:45:00Z,2026-10-04T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_352,pierre.santos352@example.com,2026-10-04T16:00:00Z,COMPLETE,2026-10-04T16:45:00Z,2026-10-04T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_353,chloé.santos353@example.com,2026-10-04T18:00:00Z,PARTIALLY_COMPLETE,2026-10-04T18:45:00Z,2026-10-04T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_354,minho.santos354@example.com,2026-10-04T20:00:00Z,COMPLETE,2026-10-04T20:45:00Z,2026-10-05T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_355,jiwoo.santos355@example.com,2026-10-04T22:00:00Z,NOT_STARTED,2026-10-04T22:45:00Z,2026-10-05T02:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_356,ken.santos356@example.com,2026-10-05T00:00:00Z,COMPLETE,2026-10-05T00:45:00Z,2026-10-05T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_357,yui.santos357@example.com,2026-10-05T02:00:00Z,PARTIALLY_COMPLETE,2026-10-05T02:45:00Z,2026-10-05T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_358,mateo.santos358@example.com,2026-10-05T04:00:00Z,COMPLETE,2026-10-05T04:45:00Z,2026-10-05T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_359,lucia.santos359@example.com,2026-10-05T06:00:00Z,PARTIALLY_COMPLETE,2026-10-05T06:45:00Z,2026-10-05T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_360,james.müller360@example.com,2026-10-05T08:00:00Z,NOT_STARTED,2026-10-05T08:45:00Z,2026-10-05T12:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_361,emma.müller361@example.com,2026-10-05T10:00:00Z,PARTIALLY_COMPLETE,2026-10-05T10:45:00Z,2026-10-05T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_362,liam.müller362@example.com,2026-10-05T12:00:00Z,COMPLETE,2026-10-05T12:45:00Z,2026-10-05T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_363,olivia.müller363@example.com,2026-10-05T14:00:00Z,PARTIALLY_COMPLETE,2026-10-05T14:45:00Z,2026-10-05T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_364,noah.müller364@example.com,2026-10-05T16:00:00Z,COMPLETE,2026-10-05T16:45:00Z,2026-10-05T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_365,sophia.müller365@example.com,2026-10-05T18:00:00Z,NOT_STARTED,2026-10-05T18:45:00Z,2026-10-05T22:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_366,alexander.müller366@example.com,2026-10-05T20:00:00Z,COMPLETE,2026-10-05T20:45:00Z,2026-10-06T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_367,isabella.müller367@example.com,2026-10-05T22:00:00Z,PARTIALLY_COMPLETE,2026-10-05T22:45:00Z,2026-10-06T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_368,william.müller368@example.com,2026-10-06T00:00:00Z,COMPLETE,2026-10-06T00:45:00Z,2026-10-06T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_369,mia.müller369@example.com,2026-10-06T02:00:00Z,PARTIALLY_COMPLETE,2026-10-06T02:45:00Z,2026-10-06T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_370,carlos.müller370@example.com,2026-10-06T04:00:00Z,NOT_STARTED,2026-10-06T04:45:00Z,2026-10-06T08:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_371,ana.müller371@example.com,2026-10-06T06:00:00Z,PARTIALLY_COMPLETE,2026-10-06T06:45:00Z,2026-10-06T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_372,pierre.müller372@example.com,2026-10-06T08:00:00Z,COMPLETE,2026-10-06T08:45:00Z,2026-10-06T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_373,chloé.müller373@example.com,2026-10-06T10:00:00Z,PARTIALLY_COMPLETE,2026-10-06T10:45:00Z,2026-10-06T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_374,minho.müller374@example.com,2026-10-06T12:00:00Z,COMPLETE,2026-10-06T12:45:00Z,2026-10-06T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_375,jiwoo.müller375@example.com,2026-10-06T14:00:00Z,NOT_STARTED,2026-10-06T14:45:00Z,2026-10-06T18:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_376,ken.müller376@example.com,2026-10-06T16:00:00Z,COMPLETE,2026-10-06T16:45:00Z,2026-10-06T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_377,yui.müller377@example.com,2026-10-06T18:00:00Z,PARTIALLY_COMPLETE,2026-10-06T18:45:00Z,2026-10-06T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_378,mateo.müller378@example.com,2026-10-06T20:00:00Z,COMPLETE,2026-10-06T20:45:00Z,2026-10-07T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_379,lucia.müller379@example.com,2026-10-06T22:00:00Z,PARTIALLY_COMPLETE,2026-10-06T22:45:00Z,2026-10-07T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_380,james.schneider380@example.com,2026-10-07T00:00:00Z,NOT_STARTED,2026-10-07T00:45:00Z,2026-10-07T04:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_381,emma.schneider381@example.com,2026-10-07T02:00:00Z,PARTIALLY_COMPLETE,2026-10-07T02:45:00Z,2026-10-07T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_382,liam.schneider382@example.com,2026-10-07T04:00:00Z,COMPLETE,2026-10-07T04:45:00Z,2026-10-07T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_383,olivia.schneider383@example.com,2026-10-07T06:00:00Z,PARTIALLY_COMPLETE,2026-10-07T06:45:00Z,2026-10-07T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_384,noah.schneider384@example.com,2026-10-07T08:00:00Z,COMPLETE,2026-10-07T08:45:00Z,2026-10-07T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_385,sophia.schneider385@example.com,2026-10-07T10:00:00Z,NOT_STARTED,2026-10-07T10:45:00Z,2026-10-07T14:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_386,alexander.schneider386@example.com,2026-10-07T12:00:00Z,COMPLETE,2026-10-07T12:45:00Z,2026-10-07T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_387,isabella.schneider387@example.com,2026-10-07T14:00:00Z,PARTIALLY_COMPLETE,2026-10-07T14:45:00Z,2026-10-07T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_388,william.schneider388@example.com,2026-10-07T16:00:00Z,COMPLETE,2026-10-07T16:45:00Z,2026-10-07T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_389,mia.schneider389@example.com,2026-10-07T18:00:00Z,PARTIALLY_COMPLETE,2026-10-07T18:45:00Z,2026-10-07T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_390,carlos.schneider390@example.com,2026-10-07T20:00:00Z,NOT_STARTED,2026-10-07T20:45:00Z,2026-10-08T00:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_391,ana.schneider391@example.com,2026-10-07T22:00:00Z,PARTIALLY_COMPLETE,2026-10-07T22:45:00Z,2026-10-08T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_392,pierre.schneider392@example.com,2026-10-08T00:00:00Z,COMPLETE,2026-10-08T00:45:00Z,2026-10-08T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_393,chloé.schneider393@example.com,2026-10-08T02:00:00Z,PARTIALLY_COMPLETE,2026-10-08T02:45:00Z,2026-10-08T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_394,minho.schneider394@example.com,2026-10-08T04:00:00Z,COMPLETE,2026-10-08T04:45:00Z,2026-10-08T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_395,jiwoo.schneider395@example.com,2026-10-08T06:00:00Z,NOT_STARTED,2026-10-08T06:45:00Z,2026-10-08T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_396,ken.schneider396@example.com,2026-10-08T08:00:00Z,COMPLETE,2026-10-08T08:45:00Z,2026-10-08T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_397,yui.schneider397@example.com,2026-10-08T10:00:00Z,PARTIALLY_COMPLETE,2026-10-08T10:45:00Z,2026-10-08T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_398,mateo.schneider398@example.com,2026-10-08T12:00:00Z,COMPLETE,2026-10-08T12:45:00Z,2026-10-08T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_399,lucia.schneider399@example.com,2026-10-08T14:00:00Z,PARTIALLY_COMPLETE,2026-10-08T14:45:00Z,2026-10-08T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_400,james.smith400@example.com,2026-10-08T16:00:00Z,NOT_STARTED,2026-10-08T16:45:00Z,2026-10-08T20:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_401,emma.smith401@example.com,2026-10-08T18:00:00Z,PARTIALLY_COMPLETE,2026-10-08T18:45:00Z,2026-10-08T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_402,liam.smith402@example.com,2026-10-08T20:00:00Z,COMPLETE,2026-10-08T20:45:00Z,2026-10-09T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_403,olivia.smith403@example.com,2026-10-08T22:00:00Z,PARTIALLY_COMPLETE,2026-10-08T22:45:00Z,2026-10-09T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_404,noah.smith404@example.com,2026-10-09T00:00:00Z,COMPLETE,2026-10-09T00:45:00Z,2026-10-09T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_405,sophia.smith405@example.com,2026-10-09T02:00:00Z,NOT_STARTED,2026-10-09T02:45:00Z,2026-10-09T06:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_406,alexander.smith406@example.com,2026-10-09T04:00:00Z,COMPLETE,2026-10-09T04:45:00Z,2026-10-09T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_407,isabella.smith407@example.com,2026-10-09T06:00:00Z,PARTIALLY_COMPLETE,2026-10-09T06:45:00Z,2026-10-09T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_408,william.smith408@example.com,2026-10-09T08:00:00Z,COMPLETE,2026-10-09T08:45:00Z,2026-10-09T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_409,mia.smith409@example.com,2026-10-09T10:00:00Z,PARTIALLY_COMPLETE,2026-10-09T10:45:00Z,2026-10-09T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_410,carlos.smith410@example.com,2026-10-09T12:00:00Z,NOT_STARTED,2026-10-09T12:45:00Z,2026-10-09T16:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_411,ana.smith411@example.com,2026-10-09T14:00:00Z,PARTIALLY_COMPLETE,2026-10-09T14:45:00Z,2026-10-09T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_412,pierre.smith412@example.com,2026-10-09T16:00:00Z,COMPLETE,2026-10-09T16:45:00Z,2026-10-09T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_413,chloé.smith413@example.com,2026-10-09T18:00:00Z,PARTIALLY_COMPLETE,2026-10-09T18:45:00Z,2026-10-09T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_414,minho.smith414@example.com,2026-10-09T20:00:00Z,COMPLETE,2026-10-09T20:45:00Z,2026-10-10T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_415,jiwoo.smith415@example.com,2026-10-09T22:00:00Z,NOT_STARTED,2026-10-09T22:45:00Z,2026-10-10T02:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_416,ken.smith416@example.com,2026-10-10T00:00:00Z,COMPLETE,2026-10-10T00:45:00Z,2026-10-10T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_417,yui.smith417@example.com,2026-10-10T02:00:00Z,PARTIALLY_COMPLETE,2026-10-10T02:45:00Z,2026-10-10T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_418,mateo.smith418@example.com,2026-10-10T04:00:00Z,COMPLETE,2026-10-10T04:45:00Z,2026-10-10T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_419,lucia.smith419@example.com,2026-10-10T06:00:00Z,PARTIALLY_COMPLETE,2026-10-10T06:45:00Z,2026-10-10T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_420,james.johnson420@example.com,2026-10-10T08:00:00Z,NOT_STARTED,2026-10-10T08:45:00Z,2026-10-10T12:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_421,emma.johnson421@example.com,2026-10-10T10:00:00Z,PARTIALLY_COMPLETE,2026-10-10T10:45:00Z,2026-10-10T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_422,liam.johnson422@example.com,2026-10-10T12:00:00Z,COMPLETE,2026-10-10T12:45:00Z,2026-10-10T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_423,olivia.johnson423@example.com,2026-10-10T14:00:00Z,PARTIALLY_COMPLETE,2026-10-10T14:45:00Z,2026-10-10T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_424,noah.johnson424@example.com,2026-10-10T16:00:00Z,COMPLETE,2026-10-10T16:45:00Z,2026-10-10T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_425,sophia.johnson425@example.com,2026-10-10T18:00:00Z,NOT_STARTED,2026-10-10T18:45:00Z,2026-10-10T22:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_426,alexander.johnson426@example.com,2026-10-10T20:00:00Z,COMPLETE,2026-10-10T20:45:00Z,2026-10-11T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_427,isabella.johnson427@example.com,2026-10-10T22:00:00Z,PARTIALLY_COMPLETE,2026-10-10T22:45:00Z,2026-10-11T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_428,william.johnson428@example.com,2026-10-11T00:00:00Z,COMPLETE,2026-10-11T00:45:00Z,2026-10-11T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_429,mia.johnson429@example.com,2026-10-11T02:00:00Z,PARTIALLY_COMPLETE,2026-10-11T02:45:00Z,2026-10-11T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_430,carlos.johnson430@example.com,2026-10-11T04:00:00Z,NOT_STARTED,2026-10-11T04:45:00Z,2026-10-11T08:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_431,ana.johnson431@example.com,2026-10-11T06:00:00Z,PARTIALLY_COMPLETE,2026-10-11T06:45:00Z,2026-10-11T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_432,pierre.johnson432@example.com,2026-10-11T08:00:00Z,COMPLETE,2026-10-11T08:45:00Z,2026-10-11T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_433,chloé.johnson433@example.com,2026-10-11T10:00:00Z,PARTIALLY_COMPLETE,2026-10-11T10:45:00Z,2026-10-11T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_434,minho.johnson434@example.com,2026-10-11T12:00:00Z,COMPLETE,2026-10-11T12:45:00Z,2026-10-11T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_435,jiwoo.johnson435@example.com,2026-10-11T14:00:00Z,NOT_STARTED,2026-10-11T14:45:00Z,2026-10-11T18:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_436,ken.johnson436@example.com,2026-10-11T16:00:00Z,COMPLETE,2026-10-11T16:45:00Z,2026-10-11T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_437,yui.johnson437@example.com,2026-10-11T18:00:00Z,PARTIALLY_COMPLETE,2026-10-11T18:45:00Z,2026-10-11T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_438,mateo.johnson438@example.com,2026-10-11T20:00:00Z,COMPLETE,2026-10-11T20:45:00Z,2026-10-12T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_439,lucia.johnson439@example.com,2026-10-11T22:00:00Z,PARTIALLY_COMPLETE,2026-10-11T22:45:00Z,2026-10-12T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_440,james.williams440@example.com,2026-10-12T00:00:00Z,NOT_STARTED,2026-10-12T00:45:00Z,2026-10-12T04:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_441,emma.williams441@example.com,2026-10-12T02:00:00Z,PARTIALLY_COMPLETE,2026-10-12T02:45:00Z,2026-10-12T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_442,liam.williams442@example.com,2026-10-12T04:00:00Z,COMPLETE,2026-10-12T04:45:00Z,2026-10-12T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_443,olivia.williams443@example.com,2026-10-12T06:00:00Z,PARTIALLY_COMPLETE,2026-10-12T06:45:00Z,2026-10-12T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_444,noah.williams444@example.com,2026-10-12T08:00:00Z,COMPLETE,2026-10-12T08:45:00Z,2026-10-12T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_445,sophia.williams445@example.com,2026-10-12T10:00:00Z,NOT_STARTED,2026-10-12T10:45:00Z,2026-10-12T14:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_446,alexander.williams446@example.com,2026-10-12T12:00:00Z,COMPLETE,2026-10-12T12:45:00Z,2026-10-12T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_447,isabella.williams447@example.com,2026-10-12T14:00:00Z,PARTIALLY_COMPLETE,2026-10-12T14:45:00Z,2026-10-12T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_448,william.williams448@example.com,2026-10-12T16:00:00Z,COMPLETE,2026-10-12T16:45:00Z,2026-10-12T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_449,mia.williams449@example.com,2026-10-12T18:00:00Z,PARTIALLY_COMPLETE,2026-10-12T18:45:00Z,2026-10-12T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_450,carlos.williams450@example.com,2026-10-12T20:00:00Z,NOT_STARTED,2026-10-12T20:45:00Z,2026-10-13T00:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_451,ana.williams451@example.com,2026-10-12T22:00:00Z,PARTIALLY_COMPLETE,2026-10-12T22:45:00Z,2026-10-13T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_452,pierre.williams452@example.com,2026-10-13T00:00:00Z,COMPLETE,2026-10-13T00:45:00Z,2026-10-13T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_453,chloé.williams453@example.com,2026-10-13T02:00:00Z,PARTIALLY_COMPLETE,2026-10-13T02:45:00Z,2026-10-13T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_454,minho.williams454@example.com,2026-10-13T04:00:00Z,COMPLETE,2026-10-13T04:45:00Z,2026-10-13T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_455,jiwoo.williams455@example.com,2026-10-13T06:00:00Z,NOT_STARTED,2026-10-13T06:45:00Z,2026-10-13T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_456,ken.williams456@example.com,2026-10-13T08:00:00Z,COMPLETE,2026-10-13T08:45:00Z,2026-10-13T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_457,yui.williams457@example.com,2026-10-13T10:00:00Z,PARTIALLY_COMPLETE,2026-10-13T10:45:00Z,2026-10-13T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_458,mateo.williams458@example.com,2026-10-13T12:00:00Z,COMPLETE,2026-10-13T12:45:00Z,2026-10-13T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_459,lucia.williams459@example.com,2026-10-13T14:00:00Z,PARTIALLY_COMPLETE,2026-10-13T14:45:00Z,2026-10-13T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_460,james.brown460@example.com,2026-10-13T16:00:00Z,NOT_STARTED,2026-10-13T16:45:00Z,2026-10-13T20:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_461,emma.brown461@example.com,2026-10-13T18:00:00Z,PARTIALLY_COMPLETE,2026-10-13T18:45:00Z,2026-10-13T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_462,liam.brown462@example.com,2026-10-13T20:00:00Z,COMPLETE,2026-10-13T20:45:00Z,2026-10-14T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_463,olivia.brown463@example.com,2026-10-13T22:00:00Z,PARTIALLY_COMPLETE,2026-10-13T22:45:00Z,2026-10-14T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_464,noah.brown464@example.com,2026-10-14T00:00:00Z,COMPLETE,2026-10-14T00:45:00Z,2026-10-14T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_465,sophia.brown465@example.com,2026-10-14T02:00:00Z,NOT_STARTED,2026-10-14T02:45:00Z,2026-10-14T06:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_466,alexander.brown466@example.com,2026-10-14T04:00:00Z,COMPLETE,2026-10-14T04:45:00Z,2026-10-14T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_467,isabella.brown467@example.com,2026-10-14T06:00:00Z,PARTIALLY_COMPLETE,2026-10-14T06:45:00Z,2026-10-14T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_468,william.brown468@example.com,2026-10-14T08:00:00Z,COMPLETE,2026-10-14T08:45:00Z,2026-10-14T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_469,mia.brown469@example.com,2026-10-14T10:00:00Z,PARTIALLY_COMPLETE,2026-10-14T10:45:00Z,2026-10-14T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_470,carlos.brown470@example.com,2026-10-14T12:00:00Z,NOT_STARTED,2026-10-14T12:45:00Z,2026-10-14T16:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_471,ana.brown471@example.com,2026-10-14T14:00:00Z,PARTIALLY_COMPLETE,2026-10-14T14:45:00Z,2026-10-14T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_472,pierre.brown472@example.com,2026-10-14T16:00:00Z,COMPLETE,2026-10-14T16:45:00Z,2026-10-14T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_473,chloé.brown473@example.com,2026-10-14T18:00:00Z,PARTIALLY_COMPLETE,2026-10-14T18:45:00Z,2026-10-14T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_474,minho.brown474@example.com,2026-10-14T20:00:00Z,COMPLETE,2026-10-14T20:45:00Z,2026-10-15T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_475,jiwoo.brown475@example.com,2026-10-14T22:00:00Z,NOT_STARTED,2026-10-14T22:45:00Z,2026-10-15T02:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_476,ken.brown476@example.com,2026-10-15T00:00:00Z,COMPLETE,2026-10-15T00:45:00Z,2026-10-15T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_477,yui.brown477@example.com,2026-10-15T02:00:00Z,PARTIALLY_COMPLETE,2026-10-15T02:45:00Z,2026-10-15T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_478,mateo.brown478@example.com,2026-10-15T04:00:00Z,COMPLETE,2026-10-15T04:45:00Z,2026-10-15T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_479,lucia.brown479@example.com,2026-10-15T06:00:00Z,PARTIALLY_COMPLETE,2026-10-15T06:45:00Z,2026-10-15T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_480,james.jones480@example.com,2026-10-15T08:00:00Z,NOT_STARTED,2026-10-15T08:45:00Z,2026-10-15T12:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_481,emma.jones481@example.com,2026-10-15T10:00:00Z,PARTIALLY_COMPLETE,2026-10-15T10:45:00Z,2026-10-15T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_482,liam.jones482@example.com,2026-10-15T12:00:00Z,COMPLETE,2026-10-15T12:45:00Z,2026-10-15T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_483,olivia.jones483@example.com,2026-10-15T14:00:00Z,PARTIALLY_COMPLETE,2026-10-15T14:45:00Z,2026-10-15T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_484,noah.jones484@example.com,2026-10-15T16:00:00Z,COMPLETE,2026-10-15T16:45:00Z,2026-10-15T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_485,sophia.jones485@example.com,2026-10-15T18:00:00Z,NOT_STARTED,2026-10-15T18:45:00Z,2026-10-15T22:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_486,alexander.jones486@example.com,2026-10-15T20:00:00Z,COMPLETE,2026-10-15T20:45:00Z,2026-10-16T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_487,isabella.jones487@example.com,2026-10-15T22:00:00Z,PARTIALLY_COMPLETE,2026-10-15T22:45:00Z,2026-10-16T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_488,william.jones488@example.com,2026-10-16T00:00:00Z,COMPLETE,2026-10-16T00:45:00Z,2026-10-16T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_489,mia.jones489@example.com,2026-10-16T02:00:00Z,PARTIALLY_COMPLETE,2026-10-16T02:45:00Z,2026-10-16T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_490,carlos.jones490@example.com,2026-10-16T04:00:00Z,NOT_STARTED,2026-10-16T04:45:00Z,2026-10-16T08:00:00Z,登録済みのクレジットカード情報を変更したいです。
+case_491,ana.jones491@example.com,2026-10-16T06:00:00Z,PARTIALLY_COMPLETE,2026-10-16T06:45:00Z,2026-10-16T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_492,pierre.jones492@example.com,2026-10-16T08:00:00Z,COMPLETE,2026-10-16T08:45:00Z,2026-10-16T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_493,chloé.jones493@example.com,2026-10-16T10:00:00Z,PARTIALLY_COMPLETE,2026-10-16T10:45:00Z,2026-10-16T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_494,minho.jones494@example.com,2026-10-16T12:00:00Z,COMPLETE,2026-10-16T12:45:00Z,2026-10-16T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_495,jiwoo.jones495@example.com,2026-10-16T14:00:00Z,NOT_STARTED,2026-10-16T14:45:00Z,2026-10-16T18:00:00Z,비밀번호 재설정 이메일을 다시 보내주세요. 계정은 유지합니다.
+case_496,ken.jones496@example.com,2026-10-16T16:00:00Z,COMPLETE,2026-10-16T16:45:00Z,2026-10-16T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_497,yui.jones497@example.com,2026-10-16T18:00:00Z,PARTIALLY_COMPLETE,2026-10-16T18:45:00Z,2026-10-16T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_498,mateo.jones498@example.com,2026-10-16T20:00:00Z,COMPLETE,2026-10-16T20:45:00Z,2026-10-17T00:00:00Z,Please delete all my personal records and close my account permanently.
+case_499,lucia.jones499@example.com,2026-10-16T22:00:00Z,PARTIALLY_COMPLETE,2026-10-16T22:45:00Z,2026-10-17T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_500,james.garcia500@example.com,2026-10-17T00:00:00Z,NOT_STARTED,2026-10-17T00:45:00Z,2026-10-17T04:00:00Z,Je souhaite m'abonner aux alertes de réduction mais ne supprimez rien.
+case_501,emma.garcia501@example.com,2026-10-17T02:00:00Z,PARTIALLY_COMPLETE,2026-10-17T02:45:00Z,2026-10-17T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_502,liam.garcia502@example.com,2026-10-17T04:00:00Z,COMPLETE,2026-10-17T04:45:00Z,2026-10-17T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_503,olivia.garcia503@example.com,2026-10-17T06:00:00Z,PARTIALLY_COMPLETE,2026-10-17T06:45:00Z,2026-10-17T10:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_504,noah.garcia504@example.com,2026-10-17T08:00:00Z,COMPLETE,2026-10-17T08:45:00Z,2026-10-17T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_505,sophia.garcia505@example.com,2026-10-17T10:00:00Z,NOT_STARTED,2026-10-17T10:45:00Z,2026-10-17T14:00:00Z,Por favor actualicen mi número de teléfono y dirección.
+case_506,alexander.garcia506@example.com,2026-10-17T12:00:00Z,COMPLETE,2026-10-17T12:45:00Z,2026-10-17T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_507,isabella.garcia507@example.com,2026-10-17T14:00:00Z,PARTIALLY_COMPLETE,2026-10-17T14:45:00Z,2026-10-17T18:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_508,william.garcia508@example.com,2026-10-17T16:00:00Z,COMPLETE,2026-10-17T16:45:00Z,2026-10-17T20:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_509,mia.garcia509@example.com,2026-10-17T18:00:00Z,PARTIALLY_COMPLETE,2026-10-17T18:45:00Z,2026-10-17T22:00:00Z,Favor excluir permanentemente todos os meus dados e conta.
+case_510,carlos.garcia510@example.com,2026-10-17T20:00:00Z,NOT_STARTED,2026-10-17T20:45:00Z,2026-10-18T00:00:00Z,I need a full export copy of my invoices and order history for tax filing.
+case_511,ana.garcia511@example.com,2026-10-17T22:00:00Z,PARTIALLY_COMPLETE,2026-10-17T22:45:00Z,2026-10-18T02:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_512,pierre.garcia512@example.com,2026-10-18T00:00:00Z,COMPLETE,2026-10-18T00:45:00Z,2026-10-18T04:00:00Z,Je demande la suppression complète de mon compte et de mes données.
+case_513,chloé.garcia513@example.com,2026-10-18T02:00:00Z,PARTIALLY_COMPLETE,2026-10-18T02:45:00Z,2026-10-18T06:00:00Z,내 계정과 관련된 모든 개인 정보를 삭제해 주십시오.
+case_514,minho.garcia514@example.com,2026-10-18T04:00:00Z,COMPLETE,2026-10-18T04:45:00Z,2026-10-18T08:00:00Z,個人情報保護法に基づき、アカウントと関連データを完全に消去してください。
+case_515,jiwoo.garcia515@example.com,2026-10-18T06:00:00Z,NOT_STARTED,2026-10-18T06:45:00Z,2026-10-18T10:00:00Z,Quero cancelar o recebimento de e-mails de marketing apenas.
+case_516,ken.garcia516@example.com,2026-10-18T08:00:00Z,COMPLETE,2026-10-18T08:45:00Z,2026-10-18T12:00:00Z,Please delete all my personal records and close my account permanently.
+case_517,yui.garcia517@example.com,2026-10-18T10:00:00Z,PARTIALLY_COMPLETE,2026-10-18T10:45:00Z,2026-10-18T14:00:00Z,"Por favor, borren todos mis datos personales y cancelen mi cuenta."
+case_518,mateo.garcia518@example.com,2026-10-18T12:00:00Z,COMPLETE,2026-10-18T12:45:00Z,2026-10-18T16:00:00Z,Je demande la suppression complète de mon compte et de mes données.

@@ -1,0 +1,11 @@
+rule_id,data_category,required_treatment,conditions,notes
+rule_01,ACCOUNT_PROFILE,DELETE,Standard account closure,Remove user profile from primary store
+rule_02,ACCOUNT_TOMBSTONE,REDACT,"Retain user_id; strip name, email, phone, email_hash",Preserve internal FK consistency
+rule_03,ORDER_HISTORY,ANONYMIZE,Financial audit compliance (7 years),"Strip direct PII, preserve transaction totals"
+rule_04,SUPPORT_TICKETS,DELETE,Customer service conversation transcripts,Purge tickets and attachments
+rule_05,MARKETING_PROFILES,DELETE,Advertising and behavioral trackers,Purge audience segments and device tokens
+rule_06,SEARCH_INDEX,DELETE,Customer catalog search cache,Evict index documents
+rule_07,APPLICATION_LOGS,REDACT,Security and diagnostic logs,"Scrub identifiers, retain trace IDs"
+rule_08,DATA_FLOW_SYNC,DISABLE_DATA_FLOW,Active connectors to downstream sinks,Sever synchronization before deletion
+rule_09,BACKUP_RESTORE_RISK,BLOCK_RESTORE,Unscrubbed recovery snapshots,Prevent restore overwrite
+rule_10,PAYMENT_RECORDS,RETAIN,Tax and AML regulatory hold,Retain anonymized payment ledgers

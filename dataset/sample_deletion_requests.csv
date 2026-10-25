@@ -1,0 +1,33 @@
+case_id,email,requested_at,reported_status,reported_at,audit_at,request_text
+case_001,clara.oswald@example.com,2026-09-01T10:00:00Z,NOT_STARTED,2026-09-01T10:05:00Z,2026-09-02T12:00:00Z,Please send me a copy of all my purchase history and personal data.
+case_002,marcos.silva@example.com,2026-09-01T11:00:00Z,NOT_STARTED,2026-09-01T11:05:00Z,2026-09-02T12:00:00Z,"Quiero cancelar mi suscripción al boletín de noticias, pero mantener mi cuenta activa."
+case_003,lucas.bernard@example.com,2026-09-01T12:00:00Z,NOT_STARTED,2026-09-01T12:05:00Z,2026-09-02T12:00:00Z,Je souhaite modifier mon adresse de livraison pour ma prochaine commande.
+case_004,jinwoo.park@example.com,2026-09-01T13:00:00Z,NOT_STARTED,2026-09-01T13:05:00Z,2026-09-02T12:00:00Z,비밀번호를 재설정하고 싶습니다. 계정을 삭제하지 마세요.
+case_005,kenji.sato@example.com,2026-09-01T14:00:00Z,NOT_STARTED,2026-09-01T14:05:00Z,2026-09-02T12:00:00Z,メールマガジンの配信を停止してください。
+case_006,beatriz.souza@example.com,2026-09-01T15:00:00Z,NOT_STARTED,2026-09-01T15:05:00Z,2026-09-02T12:00:00Z,"Por favor, NÃO apague a minha conta. Foi um engano."
+case_007,arthur.dent@example.com,2026-09-01T16:00:00Z,NOT_STARTED,2026-09-01T16:05:00Z,2026-09-02T12:00:00Z,I withdrew my earlier deletion request. Please keep my profile active.
+case_008,elena.rostova@example.com,2026-09-01T17:00:00Z,NOT_STARTED,2026-09-01T17:05:00Z,2026-09-02T12:00:00Z,How do I update my payment credit card details on file?
+case_009,sarah.connor@example.com,2026-09-02T08:00:00Z,COMPLETE,2026-09-02T09:00:00Z,2026-09-02T12:00:00Z,Please permanently erase my account and all personal information under GDPR Article 17.
+case_010,david.ross@example.com,2026-09-02T08:30:00Z,COMPLETE,2026-09-02T09:30:00Z,2026-09-02T12:00:00Z,Delete my user profile and order data immediately.
+case_011,camille.dupont@example.com,2026-09-02T09:00:00Z,COMPLETE,2026-09-02T10:00:00Z,2026-09-02T12:00:00Z,Supprimez définitivement mon compte et toutes mes données personnelles s'il vous plaît.
+case_012,rodrigo.alves@example.com,2026-09-02T09:30:00Z,COMPLETE,2026-09-02T10:30:00Z,2026-09-02T12:00:00Z,Solicito a exclusão total dos meus dados pessoais conforme a LGPD.
+case_013,hannah.schmidt@example.com,2026-09-02T10:00:00Z,COMPLETE,2026-09-02T11:00:00Z,2026-09-02T12:00:00Z,Please delete my account and anonymize past transactions.
+case_014,yuki.tanaka@example.com,2026-09-02T10:30:00Z,COMPLETE,2026-09-02T11:30:00Z,2026-09-02T12:00:00Z,個人情報保護法に基づき、私のアカウントおよび個人データをすべて削除してください。
+case_015,minjun.kim@example.com,2026-09-02T11:00:00Z,COMPLETE,2026-09-02T11:45:00Z,2026-09-02T12:00:00Z,제 계정과 관련된 모든 정보를 완전히 삭제해 주시기 바랍니다.
+case_016,gabriel.moreno@example.com,2026-09-02T11:15:00Z,COMPLETE,2026-09-02T11:50:00Z,2026-09-02T12:00:00Z,Deseo borrar mi cuenta y eliminar cualquier dato personal registrado.
+case_017,alice.wong@example.com,2026-09-03T08:00:00Z,COMPLETE,2026-09-03T08:30:00Z,2026-09-03T12:00:00Z,Please delete my account and all personal details.
+case_018,bob.miller@example.com,2026-09-03T08:15:00Z,COMPLETE,2026-09-03T08:45:00Z,2026-09-03T12:00:00Z,Erase all my data from your systems.
+case_019,claire.fontaine@example.com,2026-09-03T08:30:00Z,COMPLETE,2026-09-03T09:00:00Z,2026-09-03T12:00:00Z,Veuillez supprimer mon profil et toutes informations me concernant.
+case_020,diego.torres@example.com,2026-09-03T08:45:00Z,COMPLETE,2026-09-03T09:15:00Z,2026-09-03T12:00:00Z,Solicito la baja de mi cuenta y borrado total de registros.
+case_021,emma.watson@example.com,2026-09-03T09:00:00Z,PARTIALLY_COMPLETE,2026-09-03T09:30:00Z,2026-09-03T12:00:00Z,Kindly remove my customer account and mailing preferences.
+case_022,felipe.santos@example.com,2026-09-03T09:15:00Z,COMPLETE,2026-09-03T09:45:00Z,2026-09-03T12:00:00Z,Favor excluir definitivamente meu cadastro.
+case_023,grace.hopper@example.com,2026-09-03T09:30:00Z,COMPLETE,2026-09-03T10:00:00Z,2026-09-03T12:00:00Z,Delete my user profile completely.
+case_024,haruto.suzuki@example.com,2026-09-03T09:45:00Z,COMPLETE,2026-09-03T10:15:00Z,2026-09-03T12:00:00Z,アカウントの完全な削除をお願いします。
+case_025,isabella.rossi@example.com,2026-09-03T10:00:00Z,NOT_STARTED,2026-09-03T10:05:00Z,2026-09-03T12:00:00Z,I want to delete my account and all associated data.
+case_026,jihoon.lee@example.com,2026-09-03T10:15:00Z,COMPLETE,2026-09-03T10:45:00Z,2026-09-03T12:00:00Z,개인정보 삭제 요청합니다.
+case_027,karl.becker@example.com,2026-09-03T10:30:00Z,COMPLETE,2026-09-03T11:00:00Z,2026-09-03T12:00:00Z,Please delete my account and eradicate all personal tracking.
+case_028,leila.mahmoud@example.com,2026-09-03T10:45:00Z,PARTIALLY_COMPLETE,2026-09-03T11:15:00Z,2026-09-03T12:00:00Z,Erase my profile from the store database.
+case_029,mateo.garcia@example.com,2026-09-03T11:00:00Z,COMPLETE,2026-09-03T11:20:00Z,2026-09-03T12:00:00Z,Eliminen mi usuario y cualquier registro de compra.
+case_030,nadia.petrova@example.com,2026-09-03T11:15:00Z,COMPLETE,2026-09-03T11:35:00Z,2026-09-03T12:00:00Z,Please remove my account and unbind my email from search.
+case_031,oscar.wild@example.com,2026-09-03T11:30:00Z,COMPLETE,2026-09-03T11:45:00Z,2026-09-03T12:00:00Z,Purge my account entirely please.
+case_032,priya.sharma@example.com,2026-09-03T11:45:00Z,COMPLETE,2026-09-03T11:55:00Z,2026-09-03T12:00:00Z,"I request complete deletion of my profile, tickets, and analytics."

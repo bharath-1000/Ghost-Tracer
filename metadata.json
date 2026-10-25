@@ -1,0 +1,6 @@
+{
+  "name": "Ghost Tracer — AI-Powered Data Deletion Auditor",
+  "description": "Track the Ghost. Prove the Deletion. Evidence-driven data deletion auditing, identity resolution, lifecycle analysis, and remediation planning for enterprise privacy compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
